@@ -5,6 +5,7 @@ def print_hi(name):
     print("jjjjjjjj")
     print("jjjjjjjj")
     print("jjjjjjjj")
+    print('kjkjhkhkjh')
 
 if __name__ == '__main__':
     print_hi('PyCharm')
